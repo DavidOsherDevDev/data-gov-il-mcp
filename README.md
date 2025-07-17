@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/davidosherproceed-data-gov-il-mcp-badge.png)](https://mseep.ai/app/davidosherproceed-data-gov-il-mcp)
+
 # Data.gov.il MCP Server
 
 [![MCP Compatible](https://img.shields.io/badge/MCP-Compatible-blue)](https://modelcontextprotocol.io/) [![MIT License](https://img.shields.io/badge/License-MIT-green)](LICENSE) ![Version](https://img.shields.io/badge/version-2.0.0-blue)
